@@ -35,6 +35,7 @@ Column Details:
   Date        On which day the match was played
   league      Under which league the match was played
 
+
 Key things to focus:
   1.) Understand all the variables in the data.
   2.) Follow best practices to make sure the model is robust.
